@@ -405,10 +405,6 @@ a.vtag {
 	clear: both;
 }
 
-#resultListBox {
-	padding: 7px;
-}
-
 .friend-avatar {
 	-webkit-border-image: url(../images/list-view-avatar-frame.png) 6 7 8 7 stretch stretch;
 	border-width: 4px 5px 5px 5px;
